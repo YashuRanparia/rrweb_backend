@@ -1,0 +1,76 @@
+{
+  "type": 3,
+  "data": {
+    "source": 0,
+    "texts": [],
+    "attributes": [
+      {
+        "id": 362,
+        "attributes": {
+          "style": {
+            "transform": "translate(0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 365,
+        "attributes": {
+          "style": {
+            "transform": "translate(0.1208%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 368,
+        "attributes": {
+          "style": {
+            "transform": "translate(0.1522%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 373,
+        "attributes": {
+          "style": {
+            "transform": "translate(0.1917%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 377,
+        "attributes": {
+          "style": {
+            "transform": "translate(0.2416%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 380,
+        "attributes": {
+          "style": {
+            "transform": "translate(0.3044%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 383,
+        "attributes": {
+          "style": {
+            "transform": "translate(0.3835%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 386,
+        "attributes": {
+          "style": {
+            "transform": "translate(0.4831%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      }
+    ],
+    "removes": [],
+    "adds": []
+  },
+  "timestamp": 1724407582423
+}

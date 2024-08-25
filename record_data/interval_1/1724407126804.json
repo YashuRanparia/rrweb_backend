@@ -1,0 +1,28 @@
+{
+  "type": 3,
+  "data": {
+    "source": 0,
+    "texts": [],
+    "attributes": [
+      {
+        "id": 138,
+        "attributes": {
+          "class": "thumbgrid"
+        }
+      }
+    ],
+    "removes": [],
+    "adds": []
+  },
+  "timestamp": 1724407126804
+}     "style": {
+            "transform": "translate(0%, 50%)"
+          }
+        }
+      }
+    ],
+    "removes": [],
+    "adds": []
+  },
+  "timestamp": 1724407126804
+}

@@ -1,0 +1,273 @@
+{
+  "type": 3,
+  "data": {
+    "source": 0,
+    "texts": [],
+    "attributes": [
+      {
+        "id": 769,
+        "attributes": {
+          "style": {
+            "transform": "translate(-97.3113%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 766,
+        "attributes": {
+          "style": {
+            "transform": "translate(-97.3113%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 763,
+        "attributes": {
+          "style": {
+            "transform": "translate(-97.3113%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 760,
+        "attributes": {
+          "style": {
+            "transform": "translate(-97.3113%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 756,
+        "attributes": {
+          "style": {
+            "transform": "translate(-97.3113%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 751,
+        "attributes": {
+          "style": {
+            "transform": "translate(-97.3113%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 748,
+        "attributes": {
+          "style": {
+            "transform": "translate(-97.3113%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 745,
+        "attributes": {
+          "style": {
+            "transform": "translate(-97.3113%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 742,
+        "attributes": {
+          "style": {
+            "transform": "translate(-97.3113%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 738,
+        "attributes": {
+          "style": {
+            "transform": "translate(-97.3113%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 772,
+        "attributes": {
+          "style": {
+            "transform": "translate(0%, -58.3868%) translate3d(0px, 0px, 0px)",
+            "opacity": "0.0269"
+          }
+        }
+      },
+      {
+        "id": 908,
+        "attributes": {
+          "style": {
+            "opacity": "0.2717"
+          }
+        }
+      },
+      {
+        "id": 864,
+        "attributes": {
+          "style": {
+            "opacity": "0.2717"
+          }
+        }
+      },
+      {
+        "id": 820,
+        "attributes": {
+          "style": {
+            "opacity": "0.2717"
+          }
+        }
+      },
+      {
+        "id": 776,
+        "attributes": {
+          "style": {
+            "opacity": "0.2717"
+          }
+        }
+      },
+      {
+        "id": 732,
+        "attributes": {
+          "style": {
+            "opacity": "0.2717"
+          }
+        }
+      },
+      {
+        "id": 697,
+        "attributes": {
+          "style": {
+            "opacity": "0.2717"
+          }
+        }
+      },
+      {
+        "id": 656,
+        "attributes": {
+          "style": {
+            "opacity": "0.2717"
+          }
+        }
+      },
+      {
+        "id": 355,
+        "attributes": {
+          "style": {
+            "transform": "translate(27.1684%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 359,
+        "attributes": {
+          "style": {
+            "transform": "translate(34.23%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 362,
+        "attributes": {
+          "style": {
+            "transform": "translate(43.1271%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 365,
+        "attributes": {
+          "style": {
+            "transform": "translate(54.3367%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 368,
+        "attributes": {
+          "style": {
+            "transform": "translate(68.46%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 373,
+        "attributes": {
+          "style": {
+            "transform": "translate(86.2542%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 348,
+        "attributes": {
+          "style": {
+            "transform": "translate(0%, 27.1684%) translate3d(0px, 0px, 0px)",
+            "opacity": "0.7283"
+          }
+        }
+      },
+      {
+        "id": 389,
+        "attributes": {
+          "style": {
+            "transform": "translate(0%, 27.1684%) translate3d(0px, 0px, 0px)",
+            "opacity": "0.7283"
+          }
+        }
+      },
+      {
+        "id": 394,
+        "attributes": {
+          "style": {
+            "opacity": "0.7283",
+            "transform": "translate(-8.1505%, 0%) translate3d(0px, 0px, 0px) scale(0.9728, 0.9728)"
+          }
+        }
+      },
+      {
+        "id": 401,
+        "attributes": {
+          "style": {
+            "opacity": "0.7283",
+            "transform": "translate(8.1505%, 0%) translate3d(0px, 0px, 0px) scale(0.9728, 0.9728)"
+          }
+        }
+      },
+      {
+        "id": 132,
+        "attributes": {
+          "style": {
+            "transform": "translate3d(-13.8133px, 5.9083px, 0px) scale(1.0051, 1.0051)"
+          }
+        }
+      },
+      {
+        "id": 127,
+        "attributes": {
+          "style": {
+            "transform": "translate3d(51.7289px, -6.1755px, 0px) scale(1.0078, 1.0078)"
+          }
+        }
+      },
+      {
+        "id": 122,
+        "attributes": {
+          "style": {
+            "transform": "translate3d(46.6187px, -18.5033px, 0px) scale(1.0116, 1.0116)"
+          }
+        }
+      },
+      {
+        "id": 117,
+        "attributes": {
+          "style": {
+            "transform": "translate3d(-22.7033px, 0.3549px, 0px) scale(1.0167, 1.0167)"
+          }
+        }
+      }
+    ],
+    "removes": [],
+    "adds": []
+  },
+  "timestamp": 1724407124349
+}

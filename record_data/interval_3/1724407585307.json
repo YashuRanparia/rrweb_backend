@@ -1,0 +1,125 @@
+{
+  "type": 3,
+  "data": {
+    "source": 0,
+    "texts": [],
+    "attributes": [
+      {
+        "id": 690,
+        "attributes": {
+          "style": {
+            "transform": "translate(-55.7188%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 687,
+        "attributes": {
+          "style": {
+            "transform": "translate(-55.7188%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 684,
+        "attributes": {
+          "style": {
+            "transform": "translate(-55.7188%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 681,
+        "attributes": {
+          "style": {
+            "transform": "translate(-55.7188%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 677,
+        "attributes": {
+          "style": {
+            "transform": "translate(-55.7188%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 672,
+        "attributes": {
+          "style": {
+            "transform": "translate(-55.7188%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 669,
+        "attributes": {
+          "style": {
+            "transform": "translate(-55.7188%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 666,
+        "attributes": {
+          "style": {
+            "transform": "translate(-55.7188%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 662,
+        "attributes": {
+          "style": {
+            "transform": "translate(-55.7188%, 0%) translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 693,
+        "attributes": {
+          "style": {
+            "transform": "translate(0%, -33.4313%) translate3d(0px, 0px, 0px)",
+            "opacity": "0.4428"
+          }
+        }
+      },
+      {
+        "id": 86,
+        "attributes": {
+          "style": {
+            "transform": "translate3d(-321.736px, 64.9222px, 0px) scale(1.0785, 1.0786)"
+          }
+        }
+      },
+      {
+        "id": 81,
+        "attributes": {
+          "style": {
+            "transform": "translate3d(615.65px, -17.0655px, 0px) scale(1.0928, 1.0929)"
+          }
+        }
+      },
+      {
+        "id": 76,
+        "attributes": {
+          "style": {
+            "transform": "translate3d(159.077px, -39.7501px, 0px) scale(1.1042, 1.1043)"
+          }
+        }
+      },
+      {
+        "id": 71,
+        "attributes": {
+          "style": {
+            "transform": "translate3d(-295.112px, -195.444px, 0px) scale(1.113, 1.1131)"
+          }
+        }
+      }
+    ],
+    "removes": [],
+    "adds": []
+  },
+  "timestamp": 1724407585307
+}

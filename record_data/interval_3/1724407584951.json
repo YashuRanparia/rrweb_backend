@@ -1,0 +1,367 @@
+{
+  "type": 3,
+  "data": {
+    "source": 0,
+    "texts": [],
+    "attributes": [
+      {
+        "id": 233,
+        "attributes": {
+          "class": "content content--current"
+        }
+      },
+      {
+        "id": 662,
+        "attributes": {
+          "style": {
+            "translate": "none",
+            "rotate": "none",
+            "scale": "none",
+            "transform": "translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 666,
+        "attributes": {
+          "style": {
+            "translate": "none",
+            "rotate": "none",
+            "scale": "none",
+            "transform": "translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 669,
+        "attributes": {
+          "style": {
+            "translate": "none",
+            "rotate": "none",
+            "scale": "none",
+            "transform": "translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 672,
+        "attributes": {
+          "style": {
+            "translate": "none",
+            "rotate": "none",
+            "scale": "none",
+            "transform": "translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 677,
+        "attributes": {
+          "style": {
+            "translate": "none",
+            "rotate": "none",
+            "scale": "none",
+            "transform": "translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 681,
+        "attributes": {
+          "style": {
+            "translate": "none",
+            "rotate": "none",
+            "scale": "none",
+            "transform": "translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 684,
+        "attributes": {
+          "style": {
+            "translate": "none",
+            "rotate": "none",
+            "scale": "none",
+            "transform": "translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 687,
+        "attributes": {
+          "style": {
+            "translate": "none",
+            "rotate": "none",
+            "scale": "none",
+            "transform": "translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 690,
+        "attributes": {
+          "style": {
+            "translate": "none",
+            "rotate": "none",
+            "scale": "none",
+            "transform": "translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 693,
+        "attributes": {
+          "style": {
+            "transform": "translate3d(0px, 0px, 0px)"
+          }
+        }
+      },
+      {
+        "id": 71,
+        "attributes": {
+          "data-flip-id": "auto-5",
+          "style": {
+            "transform": "translate(-356.5px, -236.1px) scale(1.13651, 1.13666)"
+          }
+        }
+      },
+      {
+        "id": 76,
+        "attributes": {
+          "data-flip-id": "auto-6",
+          "style": {
+            "transform": "translate(208.5px, -52.1px) scale(1.13651, 1.13666)"
+          }
+        }
+      },
+      {
+        "id": 81,
+        "attributes": {
+          "data-flip-id": "auto-7",
+          "style": {
+            "transform": "translate(905.5px, -25.1px) scale(1.13651, 1.13666)"
+          }
+        }
+      },
+      {
+        "id": 86,
+        "attributes": {
+          "data-flip-id": "auto-8",
+          "style": {
+            "transform": "translate(-559.5px, 112.9px) scale(1.13651, 1.13666)"
+          }
+        }
+      }
+    ],
+    "removes": [
+      {
+        "parentId": 69,
+        "id": 71
+      },
+      {
+        "parentId": 69,
+        "id": 76
+      },
+      {
+        "parentId": 69,
+        "id": 81
+      },
+      {
+        "parentId": 69,
+        "id": 86
+      }
+    ],
+    "adds": [
+      {
+        "parentId": 283,
+        "nextId": 76,
+        "node": {
+          "type": 2,
+          "tagName": "div",
+          "attributes": {
+            "class": "thumbgrid__item pos-1",
+            "style": "will-change: transform, opacity; translate: none; rotate: none; scale: none; transform: translate(-356.5px, -236.1px) scale(1.13651, 1.13666); opacity: 1;",
+            "data-flip-id": "auto-5"
+          },
+          "childNodes": [],
+          "id": 71
+        }
+      },
+      {
+        "parentId": 71,
+        "nextId": 73,
+        "node": {
+          "type": 3,
+          "textContent": "\n\t\t\t\t\t",
+          "id": 72
+        }
+      },
+      {
+        "parentId": 71,
+        "nextId": 74,
+        "node": {
+          "type": 2,
+          "tagName": "div",
+          "attributes": {
+            "class": "thumbgrid__item-img",
+            "style": "background-image: url(http://127.0.0.1:5500/img/1.jpg)"
+          },
+          "childNodes": [],
+          "id": 73
+        }
+      },
+      {
+        "parentId": 71,
+        "nextId": null,
+        "node": {
+          "type": 3,
+          "textContent": "\n\t\t\t\t",
+          "id": 74
+        }
+      },
+      {
+        "parentId": 283,
+        "nextId": 81,
+        "node": {
+          "type": 2,
+          "tagName": "div",
+          "attributes": {
+            "class": "thumbgrid__item pos-2",
+            "style": "will-change: transform, opacity; translate: none; rotate: none; scale: none; transform: translate(208.5px, -52.1px) scale(1.13651, 1.13666); opacity: 1;",
+            "data-flip-id": "auto-6"
+          },
+          "childNodes": [],
+          "id": 76
+        }
+      },
+      {
+        "parentId": 76,
+        "nextId": 78,
+        "node": {
+          "type": 3,
+          "textContent": "\n\t\t\t\t\t",
+          "id": 77
+        }
+      },
+      {
+        "parentId": 76,
+        "nextId": 79,
+        "node": {
+          "type": 2,
+          "tagName": "div",
+          "attributes": {
+            "class": "thumbgrid__item-img",
+            "style": "background-image: url(http://127.0.0.1:5500/img/1.jpg)"
+          },
+          "childNodes": [],
+          "id": 78
+        }
+      },
+      {
+        "parentId": 76,
+        "nextId": null,
+        "node": {
+          "type": 3,
+          "textContent": "\n\t\t\t\t",
+          "id": 79
+        }
+      },
+      {
+        "parentId": 283,
+        "nextId": 86,
+        "node": {
+          "type": 2,
+          "tagName": "div",
+          "attributes": {
+            "class": "thumbgrid__item pos-3",
+            "style": "will-change: transform, opacity; translate: none; rotate: none; scale: none; transform: translate(905.5px, -25.1px) scale(1.13651, 1.13666); opacity: 1;",
+            "data-flip-id": "auto-7"
+          },
+          "childNodes": [],
+          "id": 81
+        }
+      },
+      {
+        "parentId": 81,
+        "nextId": 83,
+        "node": {
+          "type": 3,
+          "textContent": "\n\t\t\t\t\t",
+          "id": 82
+        }
+      },
+      {
+        "parentId": 81,
+        "nextId": 84,
+        "node": {
+          "type": 2,
+          "tagName": "div",
+          "attributes": {
+            "class": "thumbgrid__item-img",
+            "style": "background-image: url(http://127.0.0.1:5500/img/1.jpg)"
+          },
+          "childNodes": [],
+          "id": 83
+        }
+      },
+      {
+        "parentId": 81,
+        "nextId": null,
+        "node": {
+          "type": 3,
+          "textContent": "\n\t\t\t\t",
+          "id": 84
+        }
+      },
+      {
+        "parentId": 283,
+        "nextId": null,
+        "node": {
+          "type": 2,
+          "tagName": "div",
+          "attributes": {
+            "class": "thumbgrid__item pos-4",
+            "style": "will-change: transform, opacity; translate: none; rotate: none; scale: none; transform: translate(-559.5px, 112.9px) scale(1.13651, 1.13666); opacity: 1;",
+            "data-flip-id": "auto-8"
+          },
+          "childNodes": [],
+          "id": 86
+        }
+      },
+      {
+        "parentId": 86,
+        "nextId": 88,
+        "node": {
+          "type": 3,
+          "textContent": "\n\t\t\t\t\t",
+          "id": 87
+        }
+      },
+      {
+        "parentId": 86,
+        "nextId": 89,
+        "node": {
+          "type": 2,
+          "tagName": "div",
+          "attributes": {
+            "class": "thumbgrid__item-img",
+            "style": "background-image: url(http://127.0.0.1:5500/img/1.jpg)"
+          },
+          "childNodes": [],
+          "id": 88
+        }
+      },
+      {
+        "parentId": 86,
+        "nextId": null,
+        "node": {
+          "type": 3,
+          "textContent": "\n\t\t\t\t",
+          "id": 89
+        }
+      }
+    ]
+  },
+  "timestamp": 1724407584951
+}
